@@ -11,7 +11,7 @@ p{
 h1{
   font-family: 'Montserrat-Black';
   font-size: 3rem;
-  line-height: 1.5;
+  line-height: 1.4;
   font-weight: 900;
 color: white;
 }
@@ -102,7 +102,7 @@ text-align: center;
 }
 .font{
   color: #fff;
-padding-bottom: 20px;
+padding-bottom: 25px;
 
 font-family: 'Montserrat-Black';
 }
